@@ -1,3 +1,0 @@
-This is my devops file
-devops
-update has been done.
